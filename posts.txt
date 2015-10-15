@@ -1,0 +1,5 @@
+-1|alice|I like apples!
+-1|bob|I like pears!
+0|charlie|Me to.
+1|charlie|i disagree.
+3||bob|screw you
